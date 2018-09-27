@@ -1,6 +1,6 @@
 {
   "name": "@terrastack/terraform-aws-vpc",
-  "version": "1.0.2",
+  "version": "53.0.0",
   "description": "Terraform module which creates VPC resources on AWS ",
   "main": ".terrastack/component/index.js",
   "repository": "git@github.com:TerraStackIO/terraform-aws-vpc.git",
