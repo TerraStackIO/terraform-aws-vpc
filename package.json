@@ -1,10 +1,14 @@
 {
-  "name": "@terrastack/terraform-aws-vpc",
+  "name": "@terrastack-test/terraform-aws-vpc",
   "version": "1.0.0",
-  "description": "yeah",
+  "description": "Terraform module which creates VPC resources on AWS",
   "main": ".terrastack/component/index.js",
   "license": "MPL-2.0",
   "private": false,
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  },
   "terrastack": {
     "version": 1
   }
